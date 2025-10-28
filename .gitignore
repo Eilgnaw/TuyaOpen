@@ -25,3 +25,4 @@ dist
 /.set_example
 /dist
 *monitor.log
+.DS_Store
